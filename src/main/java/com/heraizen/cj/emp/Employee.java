@@ -14,6 +14,7 @@ public class Employee {
 	private int salary;
 	@Override
 	public String toString() {
+		//ugygu
 		return "Employee [salary=" + salary + ", ename=" + ename + ", empno=" + empno + "]";
 	}
 	public int getSalary() {
